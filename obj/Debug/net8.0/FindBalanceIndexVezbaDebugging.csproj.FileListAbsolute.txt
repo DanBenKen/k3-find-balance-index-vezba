@@ -1,0 +1,14 @@
+E:\VSCodeRepo\K3\FindBalanceIndexVezbaDebugging\bin\Debug\net8.0\FindBalanceIndexVezbaDebugging.exe
+E:\VSCodeRepo\K3\FindBalanceIndexVezbaDebugging\bin\Debug\net8.0\FindBalanceIndexVezbaDebugging.deps.json
+E:\VSCodeRepo\K3\FindBalanceIndexVezbaDebugging\bin\Debug\net8.0\FindBalanceIndexVezbaDebugging.runtimeconfig.json
+E:\VSCodeRepo\K3\FindBalanceIndexVezbaDebugging\bin\Debug\net8.0\FindBalanceIndexVezbaDebugging.dll
+E:\VSCodeRepo\K3\FindBalanceIndexVezbaDebugging\bin\Debug\net8.0\FindBalanceIndexVezbaDebugging.pdb
+E:\VSCodeRepo\K3\FindBalanceIndexVezbaDebugging\obj\Debug\net8.0\FindBalanceIndexVezbaDebugging.GeneratedMSBuildEditorConfig.editorconfig
+E:\VSCodeRepo\K3\FindBalanceIndexVezbaDebugging\obj\Debug\net8.0\FindBalanceIndexVezbaDebugging.AssemblyInfoInputs.cache
+E:\VSCodeRepo\K3\FindBalanceIndexVezbaDebugging\obj\Debug\net8.0\FindBalanceIndexVezbaDebugging.AssemblyInfo.cs
+E:\VSCodeRepo\K3\FindBalanceIndexVezbaDebugging\obj\Debug\net8.0\FindBalanceIndexVezbaDebugging.csproj.CoreCompileInputs.cache
+E:\VSCodeRepo\K3\FindBalanceIndexVezbaDebugging\obj\Debug\net8.0\FindBalanceIndexVezbaDebugging.dll
+E:\VSCodeRepo\K3\FindBalanceIndexVezbaDebugging\obj\Debug\net8.0\refint\FindBalanceIndexVezbaDebugging.dll
+E:\VSCodeRepo\K3\FindBalanceIndexVezbaDebugging\obj\Debug\net8.0\FindBalanceIndexVezbaDebugging.pdb
+E:\VSCodeRepo\K3\FindBalanceIndexVezbaDebugging\obj\Debug\net8.0\FindBalanceIndexVezbaDebugging.genruntimeconfig.cache
+E:\VSCodeRepo\K3\FindBalanceIndexVezbaDebugging\obj\Debug\net8.0\ref\FindBalanceIndexVezbaDebugging.dll
